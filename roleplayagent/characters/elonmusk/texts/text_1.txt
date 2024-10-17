@@ -1,0 +1,50 @@
+'''Scene''':「''Elon Musk and the frontier of Technology. ''」
+WATTENBERG: 「Elon Musk, welcome to THINK TANK. We normally begin these sessions by asking you a little bit about your background—where you were born, where you went to school, what you do—and then we’ll just pick it up from there.」
+
+MUSK: 「Well, I was born in South Africa, lived there until I was 17. Came to North America of my own accord, against my parent’s wishes. And was in Canada for a few years. I started school there, which is where I met my wife. Transferred down to the University of Pennsylvania and got a degree in physics, and a degree in business at Wharton. Came out to California with the intent of doing a PhD in the material science and physics...」
+
+MUSK: 「...with an eye towards using that as an energy storage unit for electric vehicles. I ended up deferring that graduate work to start a couple of companies, one of which people have heard about, such as PayPal.」
+
+WATTENBERG: 「What is that? I’m sort of a techie ignoramus. What does PayPal do?」
+
+MUSK: 「PayPal is the leading internet payment mechanism. It’s probably like an American Express of the 21st Century.」
+
+WATTENBERG: 「What does it do that my American Express card doesn’t do? I mean, I can order things on the internet with a credit card, can’t I?」
+
+MUSK: 「Yeah, you can. It’s hard to explain PayPal by analogy since it’s really a new sort of entity. So, what it allows you to do is to send money to a business or person just by entering an email address. And the money easily transfers from your PayPal account to their PayPal account.」
+
+MUSK: 「If you have money in your PayPal account, it will do an internal transfer, almost like a bank transfer. If you don’t have money in your account, it’ll draw from your credit card or your real-world bank...」
+
+WATTENBERG: 「This was your idea.」
+
+MUSK: 「There were two other people involved, but I was responsible for many of the core ideas.」
+
+MUSK: 「I had just sold my first internet company, which was internet software primarily for media companies, allowing them to publish and manage content on the web. We also had special functionality like map and directions, yellow pages, and white pages. When you went to a website like a Knight Ridder newspaper or The New York Times, you wouldn’t know you were using our software, but you were.」
+
+MUSK: 「We sold that to Compaq for about 300 million dollars in cash in early '99. And after I left the company, I started what was originally called X.com, which later became PayPal.」
+
+WATTENBERG: 「So, now we’re on this most remarkable factory floor of SpaceX. I felt like I’ve been around, but I’ve never quite seen anything like this. What are you doing here?」
+
+MUSK: 「SpaceX is developing markets for taking satellites and people to orbit and beyond. We’ve finished development and done a few test launches of our small rocket, the Falcon 1, which you see part of over here. We also have in development a big rocket, the Falcon 9, which is intended to service the space station and deliver very large satellites to orbit.」
+
+WATTENBERG: 「Did you design these, or are they your concept?」
+
+MUSK: 「Yes, I’m the chief designer at the company.」
+
+WATTENBERG: 「Designer and the businessman.」
+
+MUSK: 「Yes.」
+
+WATTENBERG: 「A good combination.」
+
+MUSK: 「Yeah, I think it is a good combination.」
+
+WATTENBERG: 「And as I understand it, you make your money on these by taking up other people’s satellites...」
+
+MUSK: 「Yes.」
+
+WATTENBERG: 「Satellites are used for communications, business, military, whatever?」
+
+MUSK: 「Yes.」
+
+

@@ -1,0 +1,49 @@
+MUSK: 「About 100 percent a year, but that won’t continue forever. We may have 50 percent growth in the future.」
+
+WATTENBERG: 「At what point do you worry about falling victim to becoming too large? Is that far off?」
+
+MUSK: 「I think it’s pretty far off. We’ll probably stabilize at maybe a thousand or two thousand people. I think Boeing has around 100 thousand people.」
+
+WATTENBERG: 「Just to jump around a bit, another one of your noteworthy entrepreneurial activities is a new electric car.」
+
+MUSK: 「Yes.」
+
+WATTENBERG: 「Will you tell us about that?」
+
+MUSK: 「Sure. I’m chairman and principal founder of Tesla Motors, which is making a revolutionary electric sports car. It’s all electric, has almost 250 miles of range, and accelerates in less than four seconds to 60 miles per hour. It’s about $100,000, so it’s a compelling price for a car of that performance.」
+
+WATTENBERG: 「Will the price go down as production increases?」
+
+MUSK: 「The sports car will probably remain at that price point, but Tesla is developing a lower-cost car, a five-passenger, four-door sedan. It’s intended to be something like a family sedan or a small SUV, and it’ll be in the $50,000 range. We’ll produce 10 to 20 thousand of these a year.」
+
+MUSK: 「Then we’ve got a model after that, which will hopefully be in the $30,000 to $35,000 range, with a volume of 100 to 200 thousand units. We’re aiming for higher and higher volumes to make electric cars more affordable over time. The Tesla Roadster, the sports car, is the introductory product. It allows us to refine the technology and make it more affordable.」
+
+WATTENBERG: 「What is the purpose of building an electric car? Can it ever be as economically competitive as a fossil-fuel-powered vehicle?」
+
+MUSK: 「Yes, I actually think electric cars will be more economically competitive in the long term. The price of gasoline is going to rise over time, given finite supplies and rapidly increasing demand from countries like China and India. At the same time, the cost of electric transportation is going to go down, driven by companies like Tesla.」
+
+WATTENBERG: 「What’s the most efficient way to create the power to charge the batteries for Tesla’s engines?」
+
+MUSK: 「Well, first, it should be said that the efficiency of an electric car—like Tesla’s—is so great that if you take a gallon of oil, use it in an electric power station, subtract transmission losses, and charging losses, you’ll still get at least twice as much mileage compared to refining that oil into gasoline and using it in a regular car. That’s called ‘well-to-wheel’ efficiency.」
+
+MUSK: 「The main reason for that is a gasoline engine is only about 17 or 18 percent efficient. The energy in that gallon of gasoline…」
+
+MUSK: 「Basically, it’s roughly one part emission, four parts heat of the energy in that gallon of gasoline. But in comparison, the electric motor is a far more efficient device. The energy efficiency of electric motors is on the order of 90 percent. So even after you take all those charging losses and other things into account, you just have a fundamentally more efficient motor.」
+
+MUSK: 「But to answer your original question about where we get the energy to charge the batteries for the cars—are we not simply extending the tailpipe to the power station? Essentially, a long tailpipe to the power station. And the answer to that is: well, first of all, electricity is a universal currency. You can generate electricity in many ways, including renewable ways like solar power, wind, and geothermal, as well as less damaging methods like nuclear.」
+
+MUSK: 「Even if you generate energy with hydrocarbons like coal, oil, or natural gas, the energy efficiency of electric transportation is so much greater that you’re still twice as better off than you would be otherwise.」
+
+WATTENBERG: 「Do you think we ought to be doing more to encourage the use of nuclear power in the United States? My understanding is we haven’t built a new nuclear plant in about 25 years.」
+
+MUSK: 「Right. It’s true we haven’t built new nuclear plants in a couple of decades. But what most people don’t realize is that existing nuclear plants have been massively upgraded.」
+
+WATTENBERG: 「About 20 percent of our total energy is nuclear, right?」
+
+MUSK: 「Yes, and we should build more nuclear power plants. I think it’s a better way to generate energy than coal or natural gas power plants. Burning hydrocarbons… people now recognize that it’s pretty bad. There’s a limit to how much CO2 the atmosphere and oceans can absorb over time.」
+
+WATTENBERG: 「You came from South Africa at age 17?」
+
+MUSK: 「Yes.」
+
+WATTENBERG: 「You’ve been quoted as saying you’re ‘nauseatingly pro-American.’ What do you mean by that?」

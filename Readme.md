@@ -1,14 +1,41 @@
-Run these in your terminal first:
+# Setup Instructions
+### 1. Create a Virtual Environment
+To ensure a clean installation, start by creating a virtual environment:
 
-pip -q install chatharuhi
-pip -q install transformers openai tiktoken langchain datasets
+```
+python3 -m venv myenv
+```
 
-Go to the root folder, run 'python3 ui.py'
+### 2. Activate the Virtual Environment
+Activate the environment you just created:
 
-Place the .env file containing the secret key in the root folder
+macOS/Linux:
+```
+source myenv/bin/activate
+```
+Windows:
+```
+myenv\Scripts\activate
+```
 
-There should be prompt the chatbot is running on http://127.0.0.1:7860
+### 3. Install Required Packages
+Run the following commands to install all necessary dependencies:
 
-Open in your browser.
+```
+pip install -r requirements.txt
+```
 
-This file contains openapi secret keys, dont share!
+
+### 4. Start the Chatbot Interface
+Navigate to the root directory of the project and run:
+```
+python3 ui.py
+```
+
+### 5. Access the Chatbot
+Once the program is running, open your browser and go to:
+
+http://127.0.0.1:7860
+
+### Important Notes
+Keep It Secure: This project uses OpenAI secret keys. Please do not share these keys with anyone.

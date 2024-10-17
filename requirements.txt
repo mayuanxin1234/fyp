@@ -1,0 +1,9 @@
+chatharuhi
+transformers
+openai
+tiktoken
+langchain
+datasets
+gradio
+torch
+langchain_community
